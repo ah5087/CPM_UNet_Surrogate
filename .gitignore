@@ -1,0 +1,6 @@
+
+# Ignore local training artifacts
+checkpoints/
+*.pt
+*.ckpt
+
